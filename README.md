@@ -31,7 +31,7 @@ A área de automação de testes front-end passou por grandes transformações n
 
 ## 🧠 Engenharia de Prompts e "Cicatrizes"
 * **Prompt Inicial (Tentativa 1):** "Qual a diferença de arquitetura entre o Cypress e o Playwright?"
-    *Resultado:* Resposta mais genérica e direta
-    Resposta dada pelo NotebookLM: 
+*   *Resultado:* Resposta mais genérica e direta
+*   *Resposta dada pelo NotebookLM:*     
     
     
